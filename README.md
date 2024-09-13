@@ -1,5 +1,5 @@
 # 💫 About Me:
-.
+Olá, su me chamo cadesuh, sou editor e designer.(no momento não preto serviço)
 
 
 ## 🌐 Socials:
