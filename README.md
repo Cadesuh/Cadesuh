@@ -1,24 +1,22 @@
-# Painel tCad 
+# 💫 About Me:
+.
 
-![Fundo do Projeto](https://link-para-imagem-de-fundo.com/imagem-preta.png)
 
-![Ícone de Edição](https://img.icons8.com/ios-filled/50/ffffff/edit.png) **Descrição do Projeto**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cadesuh_/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tcad_oficial?si=VyRLaI5La3CfI_qb) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suport-tcad&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=suport-tcad&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suport-tcad&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Redes Sociais
-
-[![YouTube](https://img.icons8.com/ios-filled/50/ffffff/youtube-play.png)](https://youtube.com/seu_video) [![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://instagram.com/seu_perfil) [![Site](https://img.icons8.com/ios-filled/50/ffffff/web.png)](https://seusite.com) [![Shop](https://img.icons8.com/ios-filled/50/ffffff/shopping-cart.png)](https://seushop.com)
-
----
-
-## Meus Trabalhos
-
-![Meu Trabalho 1](link_para_imagem_1) ![Meu Trabalho 2](link_para_imagem_2) ![Meu Trabalho 3](link_para_imagem_3)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=suport-tcad&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=suport-tcad&icon=6&color=0)](https://visitcount.itsvg.in)
 
-## Redirecionamento para Repositório
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/cadesuh) 
 
-[![Dragão](https://img.icons8.com/ios-filled/50/ffffff/dragon.png)](https://github.com/seu_repositorio) 
-[![Linux](https://img.icons8.com/ios-filled/50/ffffff/linux.png)](https://www.linux.org)
-[![Termux](https://img.icons8.com/ios-filled/50/ffffff/terminal.png)](https://termux.com)
-[![Blogger](https://img.icons8.com/ios-filled/50/ffffff/blogger.png)](https://seublogger.blogspot.com)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
