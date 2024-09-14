@@ -1,6 +1,6 @@
 ![e90a7547-42be-477b-9011-a9f2d26e2d35  EDC27B4](https://github.com/user-attachments/assets/8c956804-7b14-43e6-8f2d-f67801f75eea)
 # 💫 About Me:
-Olá, me chamo Cadesuh, soi mentor, editor e designer...🍮
+Olá, me chamo Cadesuh, sou mentor, editor e designer...🍮
 
 
 ## 🌐 Socials:
