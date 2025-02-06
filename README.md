@@ -4,7 +4,7 @@ Olá, me chamo Cadesuh, sou mentor, editor e designer...🍮
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cadesuh_/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tcad_oficial?si=VyRLaI5La3CfI_qb) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cadesuh.official/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tcad_official?si=VyRLaI5La3CfI_qb) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suport-tcad&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suport-tcad&theme=midnight-purple&hide_border=true)<br/>
