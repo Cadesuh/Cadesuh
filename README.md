@@ -21,5 +21,5 @@ Olá, me chamo Cadesuh, sou mentor, editor e designer...🍮
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## dominios gratis ou preços bons
-**[Visitar GitHub Pages](https://github.com/Cadesuh/Dicas-Dom-nios)**
+## dominios gratis ou preços bons:
+**[obter dominios gratis](https://github.com/Cadesuh/Dicas-Dom-nios)**
